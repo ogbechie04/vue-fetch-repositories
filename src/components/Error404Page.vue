@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container flex flex-col items-center justify-center gap-5 bg-blue-500 max-w-lg mx-auto py-7 rounded-2xl text-white"
+    class="container flex flex-col items-center justify-center gap-5 bg-blue-500 max-w-lg mx-auto py-7 rounded-2xl text-white px-3 text-center"
   >
     <h1 class="text-8xl">404</h1>
     <h2 class="text-4xl">Looks like you are lost.</h2>
